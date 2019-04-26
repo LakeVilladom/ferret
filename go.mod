@@ -9,7 +9,7 @@ require (
 	github.com/antlr/antlr4 v0.0.0-20190325153624-837aa60e2c47
 	github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e
 	github.com/coreos/etcd v3.3.12+incompatible // indirect
-	github.com/corpix/uarand v0.0.0
+	github.com/corpix/uarand v0.1.0
 	github.com/derekparker/trie v0.0.0-20190322172448-1ce4922c7ad9
 	github.com/fatih/color v1.7.0 // indirect
 	github.com/go-critic/go-critic v0.3.4 // indirect
